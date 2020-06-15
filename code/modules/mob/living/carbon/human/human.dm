@@ -4,6 +4,7 @@
 	icon = 'icons/mob/human.dmi'
 	icon_state = ""
 	appearance_flags = KEEP_TOGETHER|TILE_BOUND|PIXEL_SCALE
+	var/faction_kb = "Sol Central Union" //killerbee
 
 /mob/living/carbon/human/Initialize()
 	verbs += /mob/living/proc/mob_sleep
