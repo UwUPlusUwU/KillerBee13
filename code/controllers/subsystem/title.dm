@@ -1,4 +1,3 @@
-// testing killerbeebot
 SUBSYSTEM_DEF(title)
 	name = "Title Screen"
 	flags = SS_NO_FIRE
