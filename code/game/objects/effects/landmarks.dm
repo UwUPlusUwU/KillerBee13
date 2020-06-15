@@ -468,3 +468,15 @@ INITIALIZE_IMMEDIATE(/obj/effect/landmark/start/new_player)
 	GLOB.ruin_landmarks -= src
 	ruin_template = null
 	. = ..()
+
+/obj/effect/landmark/start/sy_trooper //KILLERBEE
+	name = "Syndicate Trooper"
+	icon_state = "x"
+
+/obj/effect/landmark/start/nt_trooper
+	name = "Nanotrasen Trooper"
+	icon_state = "x"
+
+/obj/effect/landmark/start/bee_warrior
+	name = "Apid Warrior"
+	icon_state = "x"
