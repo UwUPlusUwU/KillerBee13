@@ -1,0 +1,242 @@
+"ae" = (/obj/structure/flora/tree/jungle/small,/obj/structure/flora/grass/jungle/b,/obj/structure/flora/grass/jungle/b,/obj/structure/flora/grass/jungle/b,/turf/open/floor/grass,/area/ruin/space/has_grav/powered)
+"ak" = (/obj/structure/flora/tree/jungle,/obj/structure/flora/grass/jungle/b,/turf/open/floor/grass,/area/ruin/space/has_grav/powered)
+"bg" = (/obj/structure/chair/comfy/shuttle{dir = 1},/turf/open/floor/mineral/plastitanium,/area/ruin/space/has_grav/powered)
+"bK" = (/obj/machinery/light,/turf/open/floor/mineral/plastitanium/red,/area/ruin/space/has_grav/powered)
+"co" = (/obj/structure/light_prism,/turf/open/indestructible/necropolis,/area/ruin/space/has_grav/powered)
+"cx" = (/obj/machinery/light{dir = 1},/turf/open/floor/plasteel,/area/ruin/space/has_grav/powered)
+"cM" = (/obj/item/toy/plush/carpplushie,/turf/open/floor/plating/asteroid,/area/ruin/space/has_grav/powered)
+"cR" = (/obj/structure/flora/grass/jungle/b,/obj/machinery/light/small{dir = 1},/turf/open/floor/grass,/area/ruin/space/has_grav/powered)
+"db" = (/obj/structure/flora/tree/jungle/small,/obj/structure/flora/junglebush/c,/turf/open/floor/grass,/area/ruin/space/has_grav/powered)
+"dj" = (/obj/structure/flora/tree/jungle,/obj/structure/flora/junglebush/c,/turf/open/floor/grass,/area/ruin/space/has_grav/powered)
+"dz" = (/obj/structure/flora/junglebush/b,/obj/structure/flora/junglebush/b,/turf/open/floor/grass,/area/ruin/space/has_grav/powered)
+"dF" = (/obj/structure/closet,/obj/item/reagent_containers/food/snacks/snowcones/honey,/obj/item/reagent_containers/food/snacks/snowcones/honey,/obj/item/reagent_containers/food/snacks/snowcones/honey,/obj/item/reagent_containers/food/snacks/snowcones/honey,/obj/item/reagent_containers/food/snacks/snowcones/honey,/obj/item/reagent_containers/food/snacks/snowcones/honey,/turf/open/indestructible/hotelwood,/area/ruin/space/has_grav/powered)
+"ed" = (/obj/structure/flora/tree/jungle/small,/obj/structure/flora/grass/jungle,/turf/open/floor/grass,/area/ruin/space/has_grav/powered)
+"eo" = (/obj/structure/flora/grass/jungle/b,/turf/closed/indestructible/rock,/area/ruin/space/has_grav/powered)
+"fa" = (/obj/structure/flora/grass/jungle/b,/turf/open/floor/grass,/area/ruin/space/has_grav/powered)
+"fl" = (/obj/structure/flora/grass/jungle,/obj/structure/flora/grass/jungle/b,/obj/structure/flora/grass/jungle/b,/turf/open/floor/grass,/area/ruin/space/has_grav/powered)
+"fy" = (/turf/closed/wall/mineral/titanium,/area/ruin/space/has_grav/powered)
+"gO" = (/obj/structure/flora/grass/jungle,/obj/structure/flora/grass/jungle,/obj/structure/flora/grass/jungle,/turf/open/floor/grass,/area/ruin/space/has_grav/powered)
+"he" = (/obj/structure/chair/comfy/shuttle{dir = 1},/obj/machinery/light{dir = 4},/turf/open/floor/mineral/plastitanium,/area/ruin/space/has_grav/powered)
+"hg" = (/obj/structure/flora/grass/jungle,/obj/structure/flora/grass/jungle,/turf/open/floor/grass,/area/ruin/space/has_grav/powered)
+"hz" = (/obj/structure/flora/tree/jungle/small,/obj/structure/flora/tree/jungle/small,/turf/open/floor/grass,/area/ruin/space/has_grav/powered)
+"hJ" = (/obj/effect/landmark/start/bee_warrior,/turf/open/indestructible/hotelwood,/area/ruin/space/has_grav/powered)
+"ib" = (/obj/structure/flora/tree/jungle/small,/obj/structure/flora/tree/jungle/small,/obj/structure/flora/grass/jungle,/turf/open/floor/grass,/area/ruin/space/has_grav/powered)
+"ij" = (/obj/structure/flora/tree/jungle/small,/obj/structure/flora/tree/jungle/small,/obj/structure/flora/grass/jungle/b,/obj/structure/flora/grass/jungle/b,/turf/open/floor/grass,/area/ruin/space/has_grav/powered)
+"ir" = (/obj/structure/flora/grass/jungle,/obj/machinery/light/small,/turf/open/floor/grass,/area/ruin/space/has_grav/powered)
+"is" = (/obj/structure/flora/rock/jungle,/obj/structure/flora/rock/jungle,/obj/structure/flora/rock/jungle,/turf/open/floor/grass,/area/ruin/space/has_grav/powered)
+"jn" = (/obj/structure/fence{dir = 4},/turf/open/floor/grass,/area/ruin/space/has_grav/powered)
+"jq" = (/obj/structure/flora/tree/jungle,/turf/open/floor/grass,/area/ruin/space/has_grav/powered)
+"jt" = (/turf/open/indestructible/necropolis,/area/ruin/space/has_grav/powered)
+"jR" = (/obj/structure/flora/junglebush/large,/turf/open/floor/grass,/area/ruin/space/has_grav/powered)
+"jS" = (/obj/structure/flora/tree/jungle/small,/turf/open/floor/grass,/area/ruin/space/has_grav/powered)
+"jW" = (/turf/open/indestructible/hotelwood,/area/ruin/space/has_grav/powered)
+"kK" = (/obj/structure/chair/comfy/shuttle{dir = 1},/obj/machinery/light{dir = 8},/turf/open/floor/mineral/plastitanium,/area/ruin/space/has_grav/powered)
+"lm" = (/obj/structure/flora/tree/jungle,/obj/structure/flora/tree/jungle,/turf/open/floor/grass,/area/ruin/space/has_grav/powered)
+"lp" = (/obj/structure/flora/junglebush/c,/turf/open/floor/grass,/area/ruin/space/has_grav/powered)
+"ls" = (/obj/machinery/computer/shuttle/caravan/syndicate3,/turf/open/floor/mineral/plastitanium,/area/ruin/space/has_grav/powered)
+"mp" = (/turf/closed/indestructible/rock,/area/ruin/space/has_grav/powered)
+"mM" = (/obj/machinery/light/floor,/obj/machinery/capturepoint,/turf/open/floor/mineral/plastitanium/red,/area/ruin/space/has_grav/powered)
+"mX" = (/obj/structure/flora/grass/jungle,/obj/machinery/light{dir = 1},/turf/open/floor/grass,/area/ruin/space/has_grav/powered)
+"nd" = (/obj/effect/spawner/structure/window/hollow/reinforced,/obj/structure/barricade/wooden/crude,/turf/open/floor/grass,/area/ruin/space/has_grav/powered)
+"nG" = (/turf/open/floor/grass,/area/ruin/space/has_grav/powered)
+"nK" = (/obj/structure/flora/grass/jungle/b,/obj/structure/flora/grass/jungle,/turf/open/floor/grass,/area/ruin/space/has_grav/powered)
+"nN" = (/obj/structure/fence{dir = 4},/obj/structure/fence/door,/turf/open/floor/grass,/area/ruin/space/has_grav/powered)
+"nV" = (/obj/structure/flora/rock/jungle,/obj/structure/flora/rock/jungle,/turf/open/floor/grass,/area/ruin/space/has_grav/powered)
+"oa" = (/obj/effect/landmark/start/nt_trooper,/turf/open/floor/plasteel,/area/ruin/space/has_grav/powered)
+"oD" = (/obj/item/stack/sheet/mineral/sandbags,/turf/open/floor/plating/asteroid,/area/ruin/space/has_grav/powered)
+"pZ" = (/obj/machinery/light{dir = 1},/obj/machinery/light{dir = 1},/turf/open/floor/grass,/area/ruin/space/has_grav/powered)
+"qg" = (/obj/structure/flora/grass/jungle,/obj/structure/flora/rock/jungle,/turf/open/floor/grass,/area/ruin/space/has_grav/powered)
+"qH" = (/obj/structure/cable/yellow,/turf/open/floor/grass,/area/ruin/space/has_grav/powered)
+"qO" = (/obj/effect/decal/remains/human,/obj/item/gps/mining,/turf/open/floor/plating/asteroid,/area/ruin/space/has_grav/powered)
+"rR" = (/obj/structure/chair/comfy/shuttle{dir = 1},/obj/structure/light_prism,/turf/open/floor/mineral/plastitanium,/area/ruin/space/has_grav/powered)
+"sl" = (/obj/machinery/light/small,/turf/open/floor/plating/asteroid,/area/ruin/space/has_grav/powered)
+"sr" = (/obj/structure/flora/grass/jungle/b,/obj/structure/flora/grass/jungle/b,/turf/open/floor/grass,/area/ruin/space/has_grav/powered)
+"sy" = (/obj/structure/flora/grass/jungle/b,/obj/structure/flora/tree/jungle/small,/turf/open/floor/grass,/area/ruin/space/has_grav/powered)
+"sM" = (/obj/structure/flora/tree/jungle,/obj/structure/flora/junglebush/large,/turf/open/floor/grass,/area/ruin/space/has_grav/powered)
+"sR" = (/obj/structure/flora/grass/jungle,/obj/structure/flora/junglebush/b,/turf/open/floor/grass,/area/ruin/space/has_grav/powered)
+"sU" = (/obj/structure/necropolis_gate,/turf/open/indestructible/necropolis,/area/ruin/space/has_grav/powered)
+"sV" = (/obj/structure/flora/tree/jungle/small,/obj/structure/flora/tree/jungle/small,/obj/structure/flora/tree/jungle/small,/obj/structure/flora/grass/jungle,/turf/open/floor/grass,/area/ruin/space/has_grav/powered)
+"sY" = (/obj/structure/flora/tree/jungle/small,/obj/structure/flora/grass/jungle/b,/obj/structure/flora/grass/jungle/b,/turf/open/floor/grass,/area/ruin/space/has_grav/powered)
+"tb" = (/obj/structure/flora/rock/jungle,/turf/open/floor/grass,/area/ruin/space/has_grav/powered)
+"tX" = (/obj/structure/shuttle/engine/large,/turf/open/floor/grass,/area/ruin/space/has_grav/powered)
+"uC" = (/obj/structure/sign/poster/random,/turf/closed/wall/mineral/titanium,/area/ruin/space/has_grav/powered)
+"vN" = (/obj/structure/flora/grass/jungle,/turf/closed/indestructible/rock,/area/ruin/space/has_grav/powered)
+"wQ" = (/obj/structure/flora/grass/jungle/b,/obj/machinery/light,/turf/open/floor/grass,/area/ruin/space/has_grav/powered)
+"wS" = (/obj/structure/closet,/obj/item/reagent_containers/food/snacks/honeybar,/obj/item/reagent_containers/food/snacks/honeybar,/obj/item/reagent_containers/food/snacks/honeybar,/obj/item/reagent_containers/food/snacks/honeybar,/obj/item/reagent_containers/food/snacks/honeybar,/obj/item/reagent_containers/food/snacks/honeybar,/turf/open/indestructible/hotelwood,/area/ruin/space/has_grav/powered)
+"xr" = (/obj/structure/flora/grass/jungle,/obj/structure/flora/grass/jungle,/obj/structure/flora/grass/jungle,/obj/structure/flora/grass/jungle,/turf/open/floor/grass,/area/ruin/space/has_grav/powered)
+"xJ" = (/obj/machinery/light{dir = 1},/turf/open/indestructible/hotelwood,/area/ruin/space/has_grav/powered)
+"xY" = (/turf/open/floor/mineral/plastitanium/red,/area/ruin/space/has_grav/powered)
+"zq" = (/obj/structure/flora/tree/jungle,/obj/structure/flora/junglebush/b,/turf/open/floor/grass,/area/ruin/space/has_grav/powered)
+"Ax" = (/turf/open/floor/mineral/plastitanium,/area/ruin/space/has_grav/powered)
+"AQ" = (/obj/structure/flora/junglebush/b,/turf/open/floor/grass,/area/ruin/space/has_grav/powered)
+"AZ" = (/obj/structure/flora/grass/jungle,/obj/machinery/capturepoint,/turf/open/floor/grass,/area/ruin/space/has_grav/powered)
+"Bd" = (/obj/effect/landmark/start/nt_trooper,/turf/open/floor/grass,/area/ruin/space/has_grav/powered)
+"BB" = (/obj/structure/flora/grass/jungle/b,/obj/structure/flora/junglebush/b,/turf/open/floor/grass,/area/ruin/space/has_grav/powered)
+"Ck" = (/obj/structure/fence,/turf/open/floor/grass,/area/ruin/space/has_grav/powered)
+"CL" = (/obj/machinery/door/airlock/command/glass,/turf/open/floor/plasteel,/area/ruin/space/has_grav/powered)
+"CO" = (/obj/structure/flora/grass/jungle,/obj/machinery/light,/turf/open/floor/grass,/area/ruin/space/has_grav/powered)
+"DX" = (/obj/machinery/light/small,/turf/open/floor/grass,/area/ruin/space/has_grav/powered)
+"Eq" = (/obj/item/pickaxe,/turf/open/floor/plating/asteroid,/area/ruin/space/has_grav/powered)
+"EG" = (/obj/structure/flora/rock/pile/largejungle,/obj/structure/flora/grass/jungle,/turf/open/floor/grass,/area/ruin/space/has_grav/powered)
+"Fc" = (/obj/structure/flora/grass/jungle,/obj/structure/flora/junglebush/c,/turf/open/floor/grass,/area/ruin/space/has_grav/powered)
+"Ff" = (/obj/item/mining_scanner,/turf/open/floor/plating/asteroid,/area/ruin/space/has_grav/powered)
+"Fj" = (/obj/structure/flora/grass/jungle,/turf/open/floor/grass,/area/ruin/space/has_grav/powered)
+"FU" = (/turf/open/floor/plasteel,/area/ruin/space/has_grav/powered)
+"Gb" = (/obj/structure/flora/tree/jungle,/obj/structure/flora/tree/jungle,/obj/structure/flora/grass/jungle,/turf/open/floor/grass,/area/ruin/space/has_grav/powered)
+"Gp" = (/turf/closed/indestructible/necropolis,/area/ruin/space/has_grav/powered)
+"GT" = (/obj/structure/light_construct{dir = 1},/turf/open/floor/plating/asteroid,/area/ruin/space/has_grav/powered)
+"Hx" = (/turf/closed/wall/mineral/plasma,/area/ruin/space/has_grav/powered)
+"HE" = (/obj/structure/flora/grass/jungle,/turf/open/indestructible/necropolis,/area/ruin/space/has_grav/powered)
+"Iq" = (/obj/structure/flora/tree/jungle/small,/obj/structure/flora/tree/jungle/small,/obj/structure/flora/tree/jungle/small,/obj/structure/flora/grass/jungle/b,/obj/structure/flora/grass/jungle/b,/turf/open/floor/grass,/area/ruin/space/has_grav/powered)
+"Is" = (/obj/machinery/light/small{dir = 1},/turf/open/floor/plating/asteroid,/area/ruin/space/has_grav/powered)
+"Iv" = (/turf/closed/wall/mineral/plastitanium,/area/ruin/space/has_grav/powered)
+"IM" = (/obj/structure/flora/tree/jungle/small,/obj/structure/flora/tree/jungle/small,/obj/structure/flora/grass/jungle,/obj/structure/flora/grass/jungle,/turf/open/floor/grass,/area/ruin/space/has_grav/powered)
+"Jo" = (/obj/structure/flora/tree/jungle,/obj/structure/flora/grass/jungle,/turf/open/indestructible/necropolis,/area/ruin/space/has_grav/powered)
+"Jz" = (/obj/structure/flora/grass/jungle/b,/obj/structure/flora/tree/jungle/small,/obj/structure/flora/tree/jungle/small,/turf/open/floor/grass,/area/ruin/space/has_grav/powered)
+"JH" = (/obj/structure/flora/grass/jungle/b,/obj/machinery/light/small,/turf/open/floor/grass,/area/ruin/space/has_grav/powered)
+"JR" = (/obj/structure/flora/tree/jungle,/obj/structure/flora/tree/jungle,/obj/structure/flora/junglebush/c,/turf/open/floor/grass,/area/ruin/space/has_grav/powered)
+"Ky" = (/obj/structure/flora/grass/jungle,/obj/machinery/light/small{dir = 1},/turf/open/floor/grass,/area/ruin/space/has_grav/powered)
+"KG" = (/obj/structure/flora/grass/jungle/b,/obj/structure/flora/grass/jungle/b,/obj/structure/flora/grass/jungle/b,/turf/open/floor/grass,/area/ruin/space/has_grav/powered)
+"KR" = (/obj/structure/flora/tree/jungle/small,/obj/structure/flora/grass/jungle/b,/turf/open/floor/grass,/area/ruin/space/has_grav/powered)
+"LK" = (/obj/structure/flora/grass/jungle/b,/obj/structure/flora/junglebush/c,/turf/open/floor/grass,/area/ruin/space/has_grav/powered)
+"Ml" = (/obj/machinery/door/airlock/hatch,/turf/open/floor/mineral/plastitanium,/area/ruin/space/has_grav/powered)
+"Nk" = (/obj/structure/flora/tree/jungle,/obj/structure/flora/grass/jungle,/obj/structure/flora/grass/jungle,/turf/open/floor/grass,/area/ruin/space/has_grav/powered)
+"Np" = (/obj/structure/flora/rock/pile/largejungle,/obj/structure/flora/grass/jungle,/obj/machinery/light,/turf/open/floor/grass,/area/ruin/space/has_grav/powered)
+"NI" = (/obj/machinery/light{dir = 1},/turf/open/floor/mineral/plastitanium/red,/area/ruin/space/has_grav/powered)
+"Oq" = (/obj/structure/flora/tree/jungle,/obj/structure/flora/grass/jungle,/obj/structure/flora/junglebush/b,/turf/open/floor/grass,/area/ruin/space/has_grav/powered)
+"Ot" = (/obj/structure/flora/grass/jungle/b,/obj/structure/flora/junglebush/large,/turf/open/floor/grass,/area/ruin/space/has_grav/powered)
+"OF" = (/obj/structure/flora/tree/jungle/small,/obj/structure/flora/grass/jungle,/obj/structure/flora/grass/jungle,/turf/open/floor/grass,/area/ruin/space/has_grav/powered)
+"Pm" = (/obj/structure/flora/junglebush,/turf/open/floor/grass,/area/ruin/space/has_grav/powered)
+"PO" = (/obj/structure/chair/comfy/shuttle{dir = 1},/obj/effect/landmark/start/sy_trooper,/turf/open/floor/mineral/plastitanium,/area/ruin/space/has_grav/powered)
+"PQ" = (/turf/open/floor/plasteel/solarpanel,/area/ruin/space/has_grav/powered)
+"Qy" = (/obj/machinery/light{dir = 1},/turf/open/floor/plating/asteroid,/area/ruin/space/has_grav/powered)
+"QG" = (/obj/machinery/capturepoint,/turf/open/indestructible/necropolis,/area/ruin/space/has_grav/powered)
+"QL" = (/obj/structure/flora/tree/jungle,/obj/structure/flora/grass/jungle,/obj/structure/flora/grass/jungle,/obj/structure/flora/grass/jungle,/turf/open/floor/grass,/area/ruin/space/has_grav/powered)
+"Rj" = (/obj/structure/sign/warning,/turf/closed/indestructible/rock,/area/ruin/space/has_grav/powered)
+"Rx" = (/obj/machinery/light{dir = 1},/turf/open/floor/grass,/area/ruin/space/has_grav/powered)
+"SD" = (/obj/structure/flora/tree/jungle,/obj/structure/flora/tree/jungle,/obj/structure/flora/tree/jungle,/turf/open/floor/grass,/area/ruin/space/has_grav/powered)
+"Tj" = (/obj/structure/flora/rock/pile/largejungle,/turf/open/floor/grass,/area/ruin/space/has_grav/powered)
+"Tx" = (/obj/structure/flora/tree/jungle,/turf/closed/indestructible/rock,/area/ruin/space/has_grav/powered)
+"Vp" = (/obj/structure/sign/poster/official/nanotrasen_logo,/turf/closed/wall/mineral/titanium,/area/ruin/space/has_grav/powered)
+"Vw" = (/obj/structure/flora/grass/jungle,/obj/structure/flora/grass/jungle/b,/turf/open/floor/grass,/area/ruin/space/has_grav/powered)
+"Vz" = (/obj/structure/window/reinforced/tinted/frosted{dir = 1},/obj/effect/spawner/structure/window/hollow/reinforced/end,/turf/open/floor/mineral/plastitanium,/area/ruin/space/has_grav/powered)
+"VI" = (/obj/machinery/capturepoint,/turf/open/floor/plating/asteroid,/area/ruin/space/has_grav/powered)
+"VP" = (/obj/machinery/door/airlock/wood/glass,/turf/open/indestructible/hotelwood,/area/ruin/space/has_grav/powered)
+"VT" = (/obj/structure/flora/tree/jungle,/obj/structure/flora/tree/jungle,/obj/structure/flora/grass/jungle,/obj/structure/flora/grass/jungle,/obj/structure/flora/grass/jungle,/turf/open/floor/grass,/area/ruin/space/has_grav/powered)
+"Wv" = (/obj/structure/flora/tree/jungle,/obj/structure/flora/grass/jungle,/turf/open/floor/grass,/area/ruin/space/has_grav/powered)
+"WS" = (/obj/structure/closet,/obj/item/reagent_containers/food/snacks/honeybun,/obj/item/reagent_containers/food/snacks/honeybun,/obj/item/reagent_containers/food/snacks/honeybun,/obj/item/reagent_containers/food/snacks/honeybun,/obj/item/reagent_containers/food/snacks/honeybun,/obj/item/reagent_containers/food/snacks/honeybun,/turf/open/indestructible/hotelwood,/area/ruin/space/has_grav/powered)
+"WV" = (/turf/closed/wall/mineral/wood,/area/ruin/space/has_grav/powered)
+"Xn" = (/obj/structure/fence/end{dir = 8},/turf/open/floor/grass,/area/ruin/space/has_grav/powered)
+"XJ" = (/obj/structure/flora/tree/jungle,/obj/structure/flora/tree/jungle,/obj/structure/flora/grass/jungle/b,/turf/open/floor/grass,/area/ruin/space/has_grav/powered)
+"XQ" = (/obj/structure/shuttle/engine/heater,/turf/open/floor/mineral/plastitanium,/area/ruin/space/has_grav/powered)
+"YD" = (/obj/structure/fence{dir = 4},/obj/structure/sign/poster/official/nanotrasen_logo,/turf/open/floor/grass,/area/ruin/space/has_grav/powered)
+"YH" = (/obj/structure/flora/tree/jungle/small,/obj/structure/flora/tree/jungle/small,/obj/structure/flora/grass/jungle/b,/turf/open/floor/grass,/area/ruin/space/has_grav/powered)
+"YO" = (/obj/structure/flora/tree/jungle,/obj/structure/flora/grass/jungle,/obj/structure/flora/grass/jungle,/obj/structure/flora/grass/jungle,/obj/structure/flora/grass/jungle,/turf/open/floor/grass,/area/ruin/space/has_grav/powered)
+"YY" = (/turf/open/floor/plating/asteroid,/area/ruin/space/has_grav/powered)
+"Za" = (/obj/structure/closet,/obj/item/stack/sheet/mineral/sandbags,/obj/item/stack/sheet/mineral/sandbags,/obj/item/stack/sheet/mineral/sandbags,/obj/item/stack/sheet/mineral/sandbags,/obj/item/stack/sheet/mineral/sandbags,/turf/open/floor/plasteel,/area/ruin/space/has_grav/powered)
+"ZP" = (/obj/structure/flora/tree/jungle/small,/obj/structure/flora/junglebush/large,/turf/open/floor/grass,/area/ruin/space/has_grav/powered)
+"ZT" = (/obj/effect/landmark/start/sy_trooper,/turf/open/floor/mineral/plastitanium,/area/ruin/space/has_grav/powered)
+"ZZ" = (/obj/structure/flora/grass/jungle/b,/obj/structure/flora/junglebush/large,/obj/structure/flora/junglebush/large,/turf/open/floor/grass,/area/ruin/space/has_grav/powered)
+
+(1,1,1) = {"
+mpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmp
+mpmpmpFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjnGWVWVWVWVWVWVWVWVWVnGnGnGnGnGWVWVWVWVWVWVWVWVWVnGnGnGnGnGWVWVWVWVWVWVWVWVWVnGnGjqnGfafafafafafafafafafafafafafafafafafafafafafampmpmpmpmpmp
+mpmpmpFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjWvFjFjFjFjFjFjFjFjFjnGWVwSWSdFxJjWjWjWWVnGnGnGnGnGWVwSWSdFxJjWjWjWWVnGnGnGnGnGWVwSWSdFxJjWjWjWWVnGnGlmnGfafafafafafafafafafafafafafafafafafafafafafampmpmpmpmpmp
+mpmpmpFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjWvFjFjFjFjWvFjFjFjFjFjnGWVjWjWjWjWjWjWjWWVnGnGnGnGnGWVjWjWjWjWjWjWjWWVnGlmnGnGnGWVjWjWjWjWjWjWjWWVnGnGjqnGfafafafafafafafafafafafafafafafafafafafafafampmpmpmpmpmp
+mpmpmpFjFjFjFjFjWvFjFjFjFjFjFjWvWvFjFjWvWvWvFjFjFjFjFjFjFjFjnGndjWjWjWhJjWjWjWndnGnGjqnGnGndjWjWjWhJjWjWjWndnGjqnGnGnGndjWjWjWhJjWjWjWndnGnGjqnGfafafafafafafaKRKRfafaKRfafafafafafafafafafampmpmpmpmpmp
+mpmpmpFjFjFjFjFjFjWvFjFjFjFjFjWvFjFjFjFjFjFjFjWvFjFjFjFjFjFjnGWVjWjWjWjWjWjWjWWVnGnGlmnGnGWVjWjWjWjWjWjWjWWVnGnGjqnGnGWVjWjWjWjWjWjWjWWVnGnGjqnGfafafafafafafafafafafafafafafafafafafafafafampmpmpmpmpmp
+mpmpmpFjFjFjFjFjFjWvWvFjFjFjFjFjWvFjFjFjFjFjFjFjFjFjFjFjFjFjnGWVjWjWjWjWjWjWjWWVnGnGjqnGnGWVjWjWjWjWjWjWjWWVnGnGjqnGnGWVjWjWjWjWjWjWjWWVnGnGjqnGfafafafafafafafafasrsrsrsrsrsrsYsrsrsrsrsrfampmpmpmpmpmp
+mpmpmpFjFjFjFjFjFjFjFjWvFjFjFjFjFjFjFjFjWvFjWvFjFjFjFjFjFjFjnGWVjWjWjWjWjWjWjWWVnGnGlmnGnGWVjWjWjWjWjWjWjWWVnGnGjqnGnGWVjWjWjWjWjWjWjWWVnGnGjqnGfafafafafafafaKRfasrsrsrsrsrsrsrsYsYsrsrsrfampmpmpmpmpmp
+mpmpmpFjWvWvFjWvFjFjWvWvFjFjFjFjWvFjFjFjFjFjFjFjFjWvFjFjFjFjnGWVWVWVWVVPWVWVWVWVnGnGjqjqnGWVWVWVWVVPWVWVWVWVnGnGnGnGnGWVWVWVWVVPWVWVWVWVnGnGjqnGfafafafafafafafafasrsrsrsrsrsrsYsrsrsYsrsrfampmpmpmpmpmp
+mpmpmpFjFjWvFjFjFjWvFjFjFjFjFjFjWvFjFjFjFjFjFjWvFjFjFjFjFjFjlplplplpfafafafaPmnGnGjqSDjqnGnGnGnGPmnGnGnGnGnGnGjqjqnGnGnGnGnGnGnGnGnGnGnGnGnGlmnGfafafafafafaKRKRfasrsrsrsrsYsrsrsrsYsrsrsrfampmpmpmpmpmp
+mpmpmpFjFjWvFjFjWvFjFjFjWvWvFjFjWvFjFjFjFjWvFjFjFjFjFjFjFjFjlplplplpfafafafaPmnGnGnGSDnGnGnGnGnGPmnGnGnGnGnGjqjqjqnGnGnGnGnGnGnGnGnGnGnGjqjqjqnGfafafafafafaKRfaKRsrsrsrsrsrsYsYsrsrsrsrsrfampmpmpmpmpmp
+mpmpmpFjFjWvWvFjWvWvFjFjFjWvFjFjFjWvFjFjFjFjFjFjFjFjWvFjFjFjlplplplpfafafafaPmSDjqlmlmPmjqSDlmnGPmnGnGjqjqlmsMjRjRsMsMsMsMsMjRnGakXJXJakfafafafasrsrsrsYsYsrsrsrsYsrsrsYsrsYsrsrsrsrsrsrsYfafafafafafamp
+mpjtjtFjFjFjWvFjFjFjWvFjFjWvFjFjFjFjWvFjFjFjFjFjFjFjFjFjFjFjlplplplpfafafafaPmPmlmPmPmPmPmPmjqPmPmnGnGnGnGnGjRjRjRjRjRjRjRjRjRnGfafafafafaKRfasraeaeaeKGKGKGaeKGKGKGaeKGKGKGsrsrsrsrsrsrsrKRfafafafafamp
+mpnGjtHEFjFjWvWvFjFjHEFjFjWvFjFjFjFjWvFjFjFjFjWvFjFjFjWvFjFjlplpdjlpfanVfafanGPmPmPmnGnGTjPmPmPmnGnGnGnGnGnGjRjRjRjRjRjRjRjRjRjRfafafaKRfafafasYsYsrsYsrsrsrsrsrsYsYsrsrsrsYfafafaKRfafasrfafafafafasrmp
+mpnGnGHEHEFjFjWvWvFjHEFjFjWvGbFjFjFjWvFjFjFjFjFjFjFjFjFjFjFjlplplplpnVtbfafanGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGjRjRjRjRjRjRjRjRjRZPfafafafafafaKRsrsrsrsrsrsrsrsrsYsrsrsrsrsrsrfafafafafafasrfafafafafasrmp
+mpjtnGFjHEFjWvFjFjHEHEFjFjFjGbFjFjWvWvFjFjFjFjFjWvFjFjFjFjFjlplplplpisfafafanGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGjRjRjRjRjRjRjRZPjRjRfafafafafafafasrsrsrsrsrsrsrsrsYsrsYsrsrsrsrYHfafafafaKRsrfasyfafafafamp
+mpjtjtFjHEHEWvWvHEHEFjJoFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjedFjlplplplpfafafanGnGnGjSjSnGTjnGnGnGnGnGnGnGnGnGnGjRjRjRjRjRjRjRZPjRjRfafafafaKRfafasrsrsrsrsrsrsYsYsrsrsYsrsrsrsrfaKRfafaKRfasrfafafafafafamp
+mpnGjtFjFjHEFjHEHEFjHEJoFjFjWvFjFjFjFjedededFjFjededFjFjedFjlplplplpnGnGnGjSjSnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGjRjRjRjRjRjRjRjRjRjRfafafafaKRfaKRsrsrsYsYsYsYijsrsrsYsrsrsrsrsrfaYHfafafafasrfafafasyfafamp
+GpGpGpGpGpGpGpGpFjWvHEWvFjWvWvFjFjFjFjFjFjFjFjFjFjFjFjedFjFjlplplpdblpnGnGnGtbnGnGnGnGnGnGjSjSnGnGnGnGnGnGnGjRjRjRjRjRjRjRjRjRjRfafafafaKRKRfasrsrsrsrsYsYsrsrsrsYsrsrsrsYsrfaKRKRfafafasrfafafasyfafamp
+GpcojtjtjtjtcoGpHEHEHEFjWvFjWvFjFjFjFjFjFjFjFjFjFjFjFjedFjFjlplpdbdblpnGnGnGtbnVnVnGnGnGnGnGnGjSnGnGnGnGnGnGjRjRjRjRjRjRjRjRjRjRfafafafafaKRfasrsYsYsYsYsrsrsrsrIqsrsrsYsrsrKRfafafafafasrfafafafafafamp
+GpjtjtjtjtjtjtGpFjWvFjFjJoFjFjFjFjFjFjFjFjFjFjFjFjFjFjedFjedlplpdblplpnGnGnGtbtbtbtbnGnGnGnGnGnGjSnGnGnGnGnGjRjRjRjRjRjRjRjRZPjRfafafafafafafasYsrsrsrsrsrsrsrsrsrsrsrsrsrsrfaKRKRKRfafasrfafafafafafamp
+GpjtjtQGjtjtjtGpFjWvFjHEJoWvWvFjFjFjFjFjFjWvFjFjFjFjFjFjFjedlplplplplpnGnGnGnGtbtbtbnGnGnGnGnGnGnGnGnGnGnGnGZPjRjRjRjRjRjRZPjRjRfafafafafafafasYsrsrsrsrsrsrsrsrsYsrsrsrsrsrfafafafafafasrfafafafafafamp
+GpjtjtjtjtjtjtGpFjFjHEHEFjWvWvFjFjFjFjFjWvFjWvFjFjFjFjFjFjFjlplplplplpnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGjRjRjRjRjRjRjRjRjRjRfafafafafafafasrsrsYsrsrsYsrsrsYsrsrsrsrsrsrfafafafafafasrfafafafafafamp
+GpjtjtjtjtjtjtGpHEHEHEHEFjWvWvFjFclplplplplpJRlplplplplplplplplplplplpnGnGnGnGnGnGnGnGnGnGnGnGnGjqnGnGnGjqjqjRjRjRjRjRjRjRjRjRjRfafafafafafafasrsrsrsrsrsrsrsrsrsrsrsrsrsrsrfafafafafafasrfafafafafafamp
+GpjtjtjtjtjtjtGpFjFjFjFjFjFjWvFjFjFjFjWvFjFjWvFjFjFjFjFjFjFjFjFjFjFjWvWvFjFjFjWvFjFjFjFjFjWvFjFjFjFjFjFjFjFjFjWvWvFjFjFjFjFjFjWvVwVwVwVwVwVwVwflsrsrsrsrsrsrsrsrsrfafafafafaAQnGnGnGnGnGfafafafafasyfamp
+GpcojtjtjtjtcoGpFjFjFjFjFjFjFjWvWvFjFjFjWvWvWvFjFjFjFjFjFjWvFjFjFjFjFjWvFjFjFjWvFjFjFjFjFjFjFjFjFjWvWvFjFjFjFjWvFjWvFjFjFjWvFjFjVwVwVwVwVwVwVwVwfafafafafafafafafanGnGjqnGAQAQnGnGAQzqnGfafafafafafafamp
+GpGpGpsUGpGpGpGpHEHEFjFjFjFjFjWvFjWvFjFjWvFjFjWvFjWvFjFjFjFjFjFjFjFjWvFjFjFjFjWvWvFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjWvFjFjFjWvVwVwVwVwVwVwVwVwfafafafafafafafafajqnGAQAQnGnGnGjqAQzqnGfafafafafafafamp
+mpjtnGnGnGHEFjFjFjHEHEHEFjFjFjFjFjFjFjFjFjFjFjWvFjFjFjFjFjFjFjFjFjWvFjFjFjFjFjWvFjFjFjFjFjFjFjFjWvWvFjFjFjFjWvFjFjWvFjWvFjFjFjFjFjFjFjsRsRsRsRsRAQzqzqAQAQAQAQzqAQAQAQzqAQAQAQAQAQdzdzjqfafasyfafafafamp
+mpjtnGFjFjHEHEFjFjFjHEHEFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjWvFjFjFjFjFjFjFjFjFjFjFjFjFjsRsRsRsROqAQAQAQzqAQAQzqAQAQAQAQAQAQAQAQzqAQAQAQjqfafafafafafafamp
+mpjtjtFjFjFjHEHEFjFjFjHEHEFjFjFjFjfafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafaakBBBBBBBBBBBBfafafaakfafafafafafafafaakakfafafafafafasyfafafafafamp
+mpnGjtFjFjFjFjHEFjFjFjFjFjFjFjFjFjfafafafafafafafafafafafafafafafafafafafasyfafafafafafafafafafafafafafafafafafafafafafafafafafafafafafaakakfafafafafafafafafafafasrfafafafafafafafafasyfafafafafafafamp
+mpnGnGFjFjFjFjFjFjFjFjFjFjFjFjFjFjfafafasyJzfasysysysysyfasyfafasysyfafafafafasysyfasysysyfafafasyfafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafawQfafafafafawQfafafafasyfafafafafafafamp
+mpnGnGFjWvFjWvFjWvFjFjFjFjFjFjFjFjfafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafanGWVWVWVFjWVWVWVnGfafafafafafafafafafafamp
+mpnGnGFjFjFjFjFjFjFjFjFjFjFjFjFjFjfafaJzfafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafasyfafafafafafafafafafafafafafafafafafafasynGWVOtqgFjlpnKWVnGfasrfasyfafafafafafafamp
+mpnGnGFjFjFjFjFjFjFjFjFjFjWvFjFjFjfafasyfaeofafafafafafafafafafafasyfasyfasyfafasyfafafafafafafafafafafafafafafafafasysyfafafafafafafafafasyfafafafafafafafafanGKyFjFjFjlpnKKynGfafafafafafafafafafafamp
+mpnGnGFjFjFjFjFjFjFjFjFjFjFjWvWvFjfafafafafafafafafafafafafasyfafafafafafafafafafafafafasyfasysyfafafafafafafasysyfafafafafafafafafasysyfafafafafafafasysyfafanGFjlplpAZlplpFjnGfafafafafasyfafafafafamp
+mpnGnGFjFjFjFjFjWvFjFjFjFjWvFjFjFjfafafafafafafafafafasyfafafasysysysyfafafafafafafafafafafafafasysyfafafafafafafafafafafafafafafafafafafafafafafafafafafafafanGDXjRlplpnKnKirnGfafafafafafafafafafafamp
+mpnGnGFjFjFjWvWvFjFjFjFjWvFjFjFjFjfafafafafafafafafafasyfafafaOtfafafafafafafafafafasyfafafafafafasyfafafafafafafafafafafafafasysyfafafafafafafafafafafafafafanGWVtblplpnKLKWVnGakfafafafafasyfafafafamp
+mpnGnGFjFjFjFjFjFjFjFjFjFjFjFjFjFjfafafasyfafafafafafasyfafafaOtOtfafafafafafafafafasyfafafafafafafafafafafafasyfafafafafafafafafafafafafafafafafafasyfafafafanGWVWVWVFjWVWVWVnGfafafaakfafafafafafafamp
+mpnGnGFjFjFjFjFjFjFjFjFjFjFjFjFjFjfafafafasyfafafafafafafafafaOtOtfafafafafafafafafasysyfafasyfafafafasyfafafafafafafafafasysyfafafafafafafaOtfafafasyfafafafanGRxnGnGnGnGFjmXFjfafafaakfafafafasyfafamp
+mpnGnGFjFjFjFjFjWvFjFjFjFjFjFjFjFjfafafafafafafafafafafafafaOtOtOtfafafafafasyfafafafafafafafafafafafafafafafasyfafafafafafafafafafafafafafaOtfafafafafafafafafafafafafafafafafafafafafafafafafasyfafamp
+mpnGnGFjFjFjFjFjFjFjFjFjFjFjFjWvWvfafafafasyfafafafafafafafaOtfaZZOtfafafafafafafafafafafafafafafafafafafasyfasyfafafafafafafafafafafafafaOtOtOtfafafafafafafafafafafafafafafafafaakfafafafafafafafafamp
+mpnGnGFjFjFjFjWvWvFjFjFjWvFjFjFjFjfafafafafasyfafafasyfafafafafafafafafafafafafafafafaOtfafafafafafafafafafafafafafafafafasyfafafafafafafafaOtOtfafafafafafafafafafafafafafafafaakfaakakfafafafafafafamp
+mpnGnGFjFjFjFjFjFjFjFjFjFjFjWvFjFjfafafafafafafafafafafafafafafafafafafafasyfafafafaOtOtOtfafafafafafafafafafasyfafafafafafafafafafafafafafaOtfafafasyfafafafafafafafafafafafafaakfaakfafafafafafafafamp
+mpnGnGFjFjFjFjFjFjFjFjWvWvFjFjFjFjfafafafafafafafafafafafafafafafafafafafasyfafafafaOtOtOtOtfafafafafafafafasyfasyfafafafasyfafafafafafafafafafafasysyfafafafafafafafafafafafafafafafafafafafafafafafamp
+mpnGnGFjFjFjFjFjFjFjFjWvFjWvFjWvFjfafafafafafafasyfafafafafafafafafafafafasyfafafaOtOtOtOtfafafafafafafafafafafafafafafafafafafafafafafafafafafafasyfafafafafafafafafafafaakakfafaakfafafafafafafafafamp
+mpnGnGFjFjFjFjFjFjFjWvWvFjFjWvWvWvfafafafafafafasyfafafafafafafafafafafafasyfafafafaOtOtfafafafafafafafasyfasyfasyfafafafasyfafafafafafafafafafafafafafafafafafafafafafafafafafafafafaakakfafafafafafamp
+mpnGnGFjFjFjFjFjFjWvFjFjFjFjFjFjFjfafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafaJzfafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafamp
+mpnGnGFjFjFjFjFjFjFjFjWvFjWvWvFjFjfafafafafafasyfasyfafafasyfafafafafafafafafafafafafafafafafafafafafafafasysyfasyfafafafafafafafafafafafafafafafafafafafafafafafafafafafafasyfafaakfafafafafafafafafamp
+mpnGnGnGnGnGnGnGjqnGjqnGnGnGnGnGnGfafafafafafaJzsyfafafafafafafafafafafafafawQfafafafafawQfafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafaJzfasysyfafafafafafafaakfaakfafafafafafafamp
+mpnGnGnGnGnGnGnGnGjqjqnGjqnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGWVWVWVFjWVWVWVnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGjqnGnGnGnGnGnGnGnGmp
+mpnGnGnGnGnGnGnGjqnGjqjqnGnGnGnGnGnGtbnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGWVOtqgFjlpnKWVnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGjSnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGmp
+mpnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGtbtbnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGKyFjFjFjlpnKKynGnGnGnGnGnGnGnGTjnGnGnGnGnGnGnGnGnGhznGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGmp
+mpnGnGnGnGnGnGnGjqjqnGnGnGtbtbtbtbtbtbtbtbtbnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGFjlplpAZlplpFjnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGmp
+mpnGnGnGnGnGnGnGnGnGjqnGnGnGtbtbtbtbtbtbtbnGnGnGnGnGnGnGnGTjnGnGnGnGnGnGnGnGirjRlplpnKnKirnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGTjnGnGnGnGnGTjnGnGnGnGjqnGnGnGnGnGnGnGnGnGnGmp
+mpnGDXnGnGnGnGnGjqjqnGnGnGnGtbtbtbtbtbtbnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGWVtblplpnKLKWVnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGjqjqnGnGnGnGnGnGnGnGmp
+mpYYRjmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpnGnGnGTjnGnGnGnGnGnGWVWVWVFjWVWVWVnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGjSnGnGnGnGnGnGnGTjnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGjqnGnGjqjqnGnGnGnGnGnGnGmp
+mpYYmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpnGnGnGnGnGnGnGnGnGnGRxnGnGnGnGFjmXFjFjFjFjFjFjFjFjFjFjFjedednGnGnGnGnGjSnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGTxTxTxmpmpmpmpmpmpmpmp
+mpYYmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGFjFjFjFjFjFjFjFjFjededFjFjedFjnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGmpmpmpmpmpmpmpmpmpmpmp
+mpYYmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpnGnGFjFjFjFjFjFjFjsVFjFjFjFjFjhghghghghghghgOFOFFjFjFjFjFjFjnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGTjnGnGnGnGnGnGnGnGmpmpmpmpmpmpmpmpmpmpmp
+mpYYmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpnGnGFjFjFjFjFjFjFjFjFjFjFjFjFjhghghghghgOFhghghgFjFjFjFjFjFjnGjSnGnGnGTjnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGmpmpmpmpmpmpmpmpmpmpmp
+mpYYIsmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpnGnGFjFjFjFjFjFjFjFjFjFjFjFjFjhghghghgOFhghghghgFjFjFjFjFjFjnGjSnGnGnGnGnGnGnGnGnGnGnGnGmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmp
+mpmpYYYYYYYYYYYYQyYYYYYYmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpjqnGFjFjFjFjFjFjFjFjFjFjFjFjFjhgOFOFhghghghghghgFjFjFjFjFjFjnGnGnGnGnGnGnGnGnGnGnGnGnGnGmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmp
+mpmpmpmpmpYYYYYYYYYYYYYYYYmpmpmpmpmpmpmpmpmpmpmpmpmpRjIsnGnGFjFjFjFjFjedFjFjFjFjFjFjFjIMhghghghghghghghgFjFjFjFjFjFjnGnGnGmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmp
+mpmpmpmpmpYYYYYYYYYYYYYYYYYYYYYYYYYYYYGTYYYYYYYYYYYYYYYYnGnGFjFjFjFjFjFjFjFjFjFjedFjFjOFhghghghghghghghgFjFjFjFjFjFjnGjqnGmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmp
+mpmpmpmpmpYYYYYYVIYYYYYYYYmpmpmpmpmpmpmpmpmpmpmpmpmpRjslnGnGFjFjFjFjFjFjFjFjFjFjedFjFjOFhghghgNkhghgNkhgFjFjFjFjFjWvnGnGnGmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmp
+mpmpmpmpmpYYYYYYEqqOFfoDmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpnGnGFjFjFjFjFjFjFjFjFjFjFjFjFjhghghghgNkhghghgNkFjFjFjFjFjWvnGnGnGmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmp
+mpmpmpmpmpEqqOYYFfYYoDoDmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpnGnGFjFjFjFjedFjFjFjFjFjFjFjedhghghgNkhghghghgNkFjFjFjFjFjWvnGnGnGmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmp
+mpmpmpmpmpcMFfEqqOoDoDoDmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpjqnGFjFjFjFjedFjFjFjFjFjedFjFjhghghghghghghgNkhgFjFjFjFjWvFjnGnGnGmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmp
+mpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpnGnGFjFjFjFjedFjFjFjFjFjibFjFjhghghgNkhghghgNkhgFjFjWvWvFjFjnGnGnGmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmp
+mpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpnGnGFjFjWvWvFjedFjFjFjFjedFjFjhghghgNkhghghghghgFjFjFjFjFjFjnGnGnGmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmp
+mpmpmpmpHxHxHxmpHxmpmpmpHxmpHxmpmpmpmpmpmpmpmpmpmpmpmpmpnGjqFjFjFjFjFjFjFjFjFjFjFjFjFjhghghghghghghgNkhgFjFjFjFjWvGbnGnGnGmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmp
+mpmpmpmpHxmpHxmpHxmpmpmpmpmpHxmpmpmpmpmpmpmpmpmpmpmpmpmpjqnGFjFjFjFjFjFjFjFjededFjFjFjhghghghghghghgNkhgFjFjFjFjFjFjnGnGnGmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmp
+mpmpmpmpHxHxHxmpHxHxHxmpHxmpHxmpmpmpmpmpmpmpmpmpmpmpmpmpnGnGFjFjWvFjFjFjFjFjFjedFjFjFjhghghghghggOgOgOQLhghghghghghgFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjnGnGmpmpmpmpmpmpmpmpmpmpmpmpmp
+mpmpmpmpHxmpmpmpHxmpHxmpHxmpHxmpmpmpmpmpmpmpmpnGnGnGnGnGnGnGFjFjWvFjFjFjFjFjFjFjhghghgVTgOQLQLgOxrxrxrxrgONkhghghghgFjWvFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjnGnGmpmpmpmpmpmpmpmpmpmpmpmpmp
+mpmpmpmpHxmpmpmpHxmpHxmpHxmpHxHxHxmpmpmpmpmpmpnGnGnGnGnGnGnGFjWvFjFjFjFjFjFjFjFjhghghggOQLgOgOgOxrYOxrxrgOhghgNkhghgFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjCOFjFjFjFjFjFjFjFjFjFjFjnGnGmpmpmpmpmpmpmpmpmpmpmpmpmp
+mpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpnGnGnGnGnGnGjqjqjqjqnGFjFjFjWvFjFjWvFjFjFjhghgNkgOgOgOgOgOxrxrxrxrgONkNkhghghgFjFjWvWvFjFjFjFjFjFjFjFjFjFjFjNpFjFjFjFjFjFjFjFjFjFjFjnGnGmpmpmpmpmpmpmpmpmpmpmpmpmp
+mpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpnGnGnGnGnGnGnGnGnGjqnGnGnGjqFjFjFjWvFjFjFjFjFjFjhgNkhggOgOgOgOgOxrxrxrxrgOhghghggOgOhggOgOgOhghgFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjnGnGmpmpmpmpmpmpmpmpmpmpmpmpmp
+mpmpmpmpmpmpmpmpmpmpmpmpmpnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGFjFjFjFjFjFjFjFjFjFjNkhghghghghghghggOgOQLgOhgFjFjFjNkhghggOgOQLhghgFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjnGnGnGnGnGnGnGnGnGnGnGnGnGnGmp
+mpmpmpmpmpmpmpmpmpmpmpmpmpnGnGnGnGnGnGnGnGjSnGnGnGjqnGnGnGnGjqnGFjFjFjFjFjFjFjFjNkNkhghgFjFjFjFjWvWvFjFjWvjqnGnGWvGbFjhghghgFjhgFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjnGnGnGnGnGnGnGnGnGnGnGnGnGnGmp
+mpnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGjqnGnGnGjqnGFjFjFjGbGbWvFjFjNkNkhghgFjFjFjFjFjFjhghghgFjFjFjhghghggOhgNkGbhgFjFjFjFjFjFjEGFjFjFjFjFjFjFjFjFjFjFjFjEGFjnGnGnGnGnGnGnGnGnGnGnGnGnGnGmp
+mpnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGTjnGnGnGnGnGnGnGnGjqnGjqnGnGjqFjWvWvFjWvWvFjFjNkhghghgFjGbFjFjWvFjhghgNkWvFjWvFjFjFjhgWvFjWvhgFjFjFjFjFjFjFjFjFjFjFjFjEGFjFjFjFjFjFjFjFjnGnGnGnGnGnGnGnGnGnGnGnGnGnGmp
+mpnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGjSjSnGnGnGnGjqnGWvWvFjFjFjFjFjFjFjFjFjhgWvFjFjWvFjFjWvFjFjFjFjFjFjFjFjhgFjFjFjhgFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjnGnGnGnGnGnGnGnGnGnGnGnGnGnGmp
+mpnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGWvFjFjFjFjFjFjWvWvFjFjhgFjFjFjFjWvFjfafaJHfafafaJHfafaFjFjFjFjhgFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjnGnGnGnGnGnGnGnGnGnGnGnGnGnGmp
+mpnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGFjFjFjFjFjFjFjWvWvFjFjhgWvFjFjWvFjFjfaIvIvIvxYIvIvIvfahghghghggOFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjnGnGnGnGjSnGnGnGnGnGnGjSjSnGmp
+mpnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGjSnGnGnGFjFjFjFjFjFjFjFjFjFjFjhgFjFjWvWvFjFjfaIvNIxYxYxYNIIvfaFjFjFjFjhgFjFjFjFjFjFjEGFjFjFjFjFjFjFjFjFjFjFjFjFjFjnGnGjSnGnGnGnGnGnGnGnGnGnGnGmp
+mpjnjnjnjnjnjnjnjnYDnNYDjnjnjnjnjnjnjnXnnGnGnGnGnGnGnGnGnGnGnGnGedFjFjedFjFjFjFjFjFjFjhgWvFjFjFjFjFjfaxYxYxYxYxYxYxYfaFjFjFjFjhgFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjnGnGnGnGnGnGnGnGnGnGnGnGnGjSmp
+mpnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGCknGnGnGnGnGnGnGnGnGnGnGnGedFjedibFjFjFjFjFjFjFjhgFjFjFjFjFjFjfaxYxYxYmMxYxYxYfaFjFjWvFjhgFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjjSjSnGnGnGnGIvVzVzVzIvnGnGnGmp
+mpnGPQPQPQPQPQnGnGnGnGnGnGnGnGnGnGnGnGCknGnGnGnGnGnGnGnGnGnGnGnGFjFjFjFjFjFjFjFjFjWvFjhgFjFjFjFjFjFjfaxYxYxYxYxYxYxYfaFjWvFjFjhgFjFjFjFjFjFjFjFjFjFjFjEGFjFjFjFjFjFjFjFjFjjSnGnGnGnGIvIvAxlsAxIvIvnGnGmp
+mpnGPQPQPQPQPQnGnGnGnGnGnGnGnGnGnGnGnGCknGnGnGnGTjnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGjqFjFjFjFjFjFjFjfaIvbKxYxYxYbKIvfaFjFjFjFjhgFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjFjjSnGnGnGIvIvAxAxZTAxAxIvIvnGmp
+mpnGPQPQPQPQPQnGnGnGnGnGnGnGnGnGBdnGnGCknGnGnGnGnGnGnGnGnGnGmpmpmpmpmpmpmpmpmpmpnGnGjqFjFjFjFjFjFjFjfaIvIvIvxYIvIvIvfanGnGnGnGmpmpmpmpmpmpmpmpnGnGnGnGnGnGnGnGnGnGnGnGnGjSnGnGnGnGIvbgbgbgAxbgbgbgIvnGmp
+mpnGnGnGqHnGnGnGnGnGnGnGnGnGnGnGnGnGnGCknGnGnGnGnGnGnGnGnGmpmpmpmpmpmpmpmpmpmpmpmpnGnGFjFjFjFjFjFjVwfafacRfafafacRfafajqnGnGmpmpmpmpmpmpmpmpmpnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGIvbgPObgAxbgPObgIvnGmp
+mpnGnGnGqHnGpZnGnGnGnGnGnGnGnGnGnGnGnGCknGnGnGnGnGnGnGnGmpmpmpmpmpmpmpmpmpmpmpmpmpmpnGFjFjWvFjFjFjFjnGnGnGnGnGnGnGnGnGnGnGmpmpmpmpmpmpmpmpmpmpnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGIvkKbgbgAxbgrRheIvnGmp
+fyfyuCfyuCfyfyfynGnGnGnGnGnGnGnGnGnGnGCknGnGnGnGnGnGnGmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpFjFjFjFjWvWvWvnGnGnGnGnGnGnGnGnGnGmpmpmpmpmpmpmpmpmpmpmpnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGMlAxAxAxAxAxAxAxMlnGmp
+ZaZaFUcxFUFUFUfynGnGnGnGnGnGnGnGnGnGnGCknGnGnGnGnGnGnGmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpvNFjFjFjFjFjFjnGnGnGnGjqjqnGnGnGmpmpmpmpmpmpmpmpmpmpmpmpnGnGnGnGnGnGnGnGnGnGnGnGnGjSnGnGnGnGIvbgbgbgAxbgbgbgIvnGmp
+FUFUFUFUFUFUFUVpnGnGnGnGnGnGnGnGnGnGnGCknGnGnGnGnGnGnGmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpnGnGnGnGnGnGnGnGnGnGnGnGnGnGmpmpmpmpmpmpmpmpmpmpmpmpmpnGnGnGnGnGnGnGnGnGnGnGnGnGjSnGnGnGnGIvbgbgbgAxbgbgbgIvnGmp
+FUFUFUoaFUFUFUCLnGnGnGnGBdnGnGnGnGnGnGCknGnGnGnGnGnGnGmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGIvXQXQAxAxAxXQXQIvnGmp
+FUFUFUFUFUFUFUVpnGnGnGnGnGnGnGnGnGnGnGCknGnGnGnGnGnGnGmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpnGnGnGnGnGnGnGnGnGnGnGnGnGjSnGnGnGnGIvIvIvIvIvIvIvIvIvnGmp
+FUFUFUFUFUFUFUfynGnGnGnGnGnGnGnGnGnGnGCknGnGnGnGnGnGnGmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGnGtXnGnGnGnGtXnGnGnGmp
+FUFUFUFUFUFUFUfympmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmpmp
+"}
