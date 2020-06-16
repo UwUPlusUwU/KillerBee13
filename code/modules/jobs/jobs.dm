@@ -35,6 +35,7 @@ GLOBAL_LIST_INIT(supply_positions, list(
 	"Shaft Miner"))
 
 
+
 GLOBAL_LIST_INIT(civilian_positions, list(
 	"Bartender",
 	"Botanist",
@@ -62,13 +63,12 @@ GLOBAL_LIST_INIT(nonhuman_positions, list(
 	"Cyborg",
 	ROLE_PAI))
 
-GLOBAL_LIST_INIT(combatant_positions, list(
-	"Syndicate Trooper",
+GLOBAL_LIST_INIT(combatant_positions, list( //killerbee
 	"Nanotrasen Trooper",
-	"Apid Warrior"))
+	"Syndicate Trooper"))
 
 GLOBAL_LIST_INIT(exp_jobsmap, list(
-	EXP_TYPE_CREW = list("titles" = command_positions | engineering_positions | medical_positions | science_positions | supply_positions | security_positions | civilian_positions | list("AI","Cyborg") | combatant_positions), // crew positions 		KILLERBEE
+	EXP_TYPE_CREW = list("titles" = command_positions | engineering_positions | medical_positions | science_positions | supply_positions | security_positions | civilian_positions | list("AI","Cyborg")) | combatant_positions, // crew positions KillerBee
 	EXP_TYPE_COMMAND = list("titles" = command_positions),
 	EXP_TYPE_ENGINEERING = list("titles" = engineering_positions),
 	EXP_TYPE_MEDICAL = list("titles" = medical_positions),
@@ -76,7 +76,7 @@ GLOBAL_LIST_INIT(exp_jobsmap, list(
 	EXP_TYPE_SUPPLY = list("titles" = supply_positions),
 	EXP_TYPE_SECURITY = list("titles" = security_positions),
 	EXP_TYPE_SILICON = list("titles" = list("AI","Cyborg")),
-	EXP_TYPE_SERVICE = list("titles" = civilian_positions)
+	EXP_TYPE_SERVICE = list("titles" = civilian_positions),
 	EXP_TYPE_COMBATANT = list ("titles" = combatant_positions),
 ))
 
